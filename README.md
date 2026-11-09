@@ -5,6 +5,8 @@ A REST service that limits how many requests each API key can make per minute. R
 Tech stack: Java 21, Spring Boot, Spring Data JPA, MySQL, Maven
 
 How it works
+<img width="855" height="312" alt="image" src="https://github.com/user-attachments/assets/75708418-93ab-4702-bad1-2b995525af6a" />
+
 X-API-Key header
 within limit
 limit exceeded
